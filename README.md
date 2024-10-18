@@ -74,8 +74,6 @@ async function displayNewReleases() {
 }
 ```
 
-## License
-This project is licensed under the MIT License.
 
 ## Credits
 - Developed by Charu Jain
